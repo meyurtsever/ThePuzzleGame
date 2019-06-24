@@ -1,0 +1,15 @@
+12	EEEwww1	100.0
+15	ty	93.75
+10	bn	100.0
+30	qwe	-6.25
+13	null	100.0
+12	sdf	81.25
+12	ASD	100.0
+11	qwe	100.0
+15	fv	68.75
+13	22	93.75
+16	Ekrem	68.75
+28	erkan	0.0
+16	ssdasdas	75.0
+30	ssdasdas	87.5
+13	Erkan4Nisan2	100.0

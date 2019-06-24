@@ -1,0 +1,32 @@
+Puzzle oyununa hoş geldiniz.
+Doğru yerleştirilen parçalar kırmızı çerçeve ile kaplanır.
+Bu noktadan sonra doğru parçaların hareketine izin verilmez.
+Parça eşleştirme aşamasında görüntüyü karıştırırsanız puanınız sıfırlanır.
+Resim yükleyerek oyuna başlayabilirsiniz.
+Resim doğru bir şekilde yüklendi ve 16 eşit parçaya ayrıldı.
+	-> Parçaları karıştırarak oyuna başlayabilirsiniz.
+Hiçbir parça doğru yerleşmedi. Lütfen tekrar karıştırın.
+1 parça doğru yerine yerleşti, 6.25 puan. Eşleştirmeye başlanabilir.
+Yanlış hamle, -6.25 puan.
+Resim doğru bir şekilde yüklendi ve 16 eşit parçaya ayrıldı.
+	-> Parçaları karıştırarak oyuna başlayabilirsiniz.
+Hiçbir parça doğru yerleşmedi. Lütfen tekrar karıştırın.
+2 parça doğru yerine yerleşti, 12.5 puan. Eşleştirmeye başlanabilir.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+	-->İkinci parça da doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+İkinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+Birinci parça doğru bir şekilde yerleştirildi. 6.25 puan.
+	-->İkinci parça da doğru bir şekilde yerleştirildi. 6.25 puan.
+
+Tebrikler, Erkan4Nisan2! Oyun bitti. 
+
+Skorunuz: 100.0
